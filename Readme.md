@@ -1,6 +1,4 @@
-# ADSP HW4
-
-## SSIM
+# SSIM
 
 ## Environment
 - python 3.10
@@ -10,7 +8,7 @@
 - matplotlib
 - argparse
 
-## Run Code
+## Execute
 ```
 python main.py --input_img0 {path/to/img0} --input_img1 {path/to/img1} --c1 {c1} --c2 {c2}
 ```
